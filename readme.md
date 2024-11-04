@@ -28,7 +28,7 @@ Yu-Gi-Oh Jo-kem-po Edition é um jogo web onde o jogador compete contra um opone
 ## 🕹️ Como Utilizar
 
 1. **Acessar a Página**:
-   - Acesse a aplicação hospedada clicando [aqui](https://yugioj-cards.vercel.app).
+   - Acesse a aplicação hospedada clicando [aqui](https://yugioh-cards-eta.vercel.app/).
    - Ou abra o arquivo `index.html` localmente no navegador para visualização offline.
 
 2. **Iniciar o Jogo**:
